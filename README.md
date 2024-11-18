@@ -14,3 +14,12 @@ Cardiac motion estimation in 3D echocardiography provides critical insights into
 <p style="text-align: justify;">
 FBA improves various 3D DLIR designs, including transformer-enhanced networks, and performs well on both fetal and adult 3D echocardiography. Combining FBA with a spatial transformer and attention-modified backbone achieves state-of-the-art results, highlighting the effectiveness of spatial attention in scaling DLIR from 2D to 3D.
 </p>
+
+
+We utilized two distinct echocardiographic datasets for our study: the publicly available [**3D MITEA dataset**](https://www.cardiacatlas.org/mitea/) and a proprietary in-house **3D fetal dataset**. The source code provided in this repository is designed to be reproducible using the **3D MITEA dataset**, which can be accessed through the provided link.
+
+We would like to express our gratitude to the following repositories, which were utilized as key references for our work:
+
+- [COSNet]([provide-link-1](https://github.com/carrierlxk/COSNet))  
+- [CoAttentionSTN]([provide-link-2](https://github.com/sa867/CoAttentionSTN))
+
