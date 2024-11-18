@@ -1,4 +1,4 @@
-## Feedback Attention to Enhance Unsupervised Deep Learning Image Registration in 3D Echocardiography
+## Feedback Attention to Enhance Unsupervised DL Image Registration in 3D Echocardiography
 
 <p style="text-align: justify;">
 Cardiac motion estimation in 3D echocardiography provides critical insights into heart health but remains challenging due to complex geometry and limited 3D DLIR implementations. We propose a <strong>spatial feedback attention module (FBA)</strong> to enhance unsupervised 3D deep learning image registration (DLIR) (as shown in the figure below). FBA leverages initial registration results to generate co-attention maps of residual errors, improving self-supervision by minimizing these errors.
