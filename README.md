@@ -20,6 +20,6 @@ We utilized two distinct echocardiographic datasets for our study: the publicly 
 
 We would like to express our gratitude to the following repositories, which were utilized as key references for our work:
 
-- [COSNet]([provide-link-1](https://github.com/carrierlxk/COSNet))  
-- [CoAttentionSTN]([provide-link-2](https://github.com/sa867/CoAttentionSTN))
+- [COSNet](https://github.com/carrierlxk/COSNet)  
+- [CoAttentionSTN](https://github.com/sa867/CoAttentionSTN)
 
