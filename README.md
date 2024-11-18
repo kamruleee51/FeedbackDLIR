@@ -18,8 +18,7 @@ FBA improves various 3D DLIR designs, including transformer-enhanced networks, a
 
 We utilized two distinct echocardiographic datasets for our study: the publicly available [**3D MITEA dataset**](https://www.cardiacatlas.org/mitea/) and a proprietary in-house **3D fetal dataset**. The source code provided in this repository is designed to be reproducible using the **3D MITEA dataset**, which can be accessed through the provided link.
 
-We would like to express our gratitude to the following repositories, which were utilized as key references for our work:
-
+We would like to express our gratitude to the following repository, which was utilized as a reference for our work:
 - [COSNet](https://github.com/carrierlxk/COSNet)  
-- [CoAttentionSTN](https://github.com/sa867/CoAttentionSTN)
+
 
